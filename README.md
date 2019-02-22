@@ -8,5 +8,10 @@ The code works fine but others may find ways to refine it as I started programmi
 Crontab entry
 0,30 * * * * bash /home/[your user name]/Ship/shipclock.sh
 
+You will also need to install mplayer (or audio player of your choice)
+
+sudo apt-get update
+sudo apt-get install mplayer
+
 # Ships-Clock-Pi
 A ships clock adaptation of Big Ben PI
