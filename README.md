@@ -11,6 +11,7 @@ Crontab entry
 You will also need to install mplayer (or audio player of your choice)
 
 sudo apt-get update
+
 sudo apt-get install mplayer
 
 # Ships-Clock-Pi
